@@ -29,15 +29,6 @@ export const theme = {
 export const daisyui = {
   themes: [
     {
-      light: {
-        ...require('daisyui/src/theming/themes')['light'],
-        primary: '#f7f0cd',
-        '--divider': '#f3f3f3',
-        'neutral-content': '#f3f3f3',
-        'base-100': '#fff',
-        neutral: '#f5f5f5',
-        '--typography-primary': '#202125',
-      },
     },
   ],
 };
